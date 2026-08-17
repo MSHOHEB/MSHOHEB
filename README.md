@@ -22,7 +22,7 @@
 - 🗄️ Strongest in **SQL** and **Advanced Excel** for data extraction, analysis & reporting; also comfortable with **Python (Pandas, NumPy, Matplotlib, Seaborn)** for analysis and visualization
 - 🧠 Currently exploring **Machine Learning, Deep Learning & Generative AI**
 - 📌 6+ hands-on analytics projects covering **churn analysis, EDA, pricing, SQL systems, and BI dashboards**
-- 🗂️ Have worked on datasets with **50,000+ rows**, handling cleaning, EDA, and visualization at that scale
+- 🗂️ Analyzed 50,000+ records across multiple datasets, applying data cleaning, EDA, and visualization techniques.
 - 💬 Open to **Data Analyst / Junior Analyst** roles — always happy to connect and talk data!
 
 <br>
