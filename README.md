@@ -19,9 +19,10 @@
 
 - 🎯 Aspiring **Data Analyst** sharpening my skills in **Advanced Excel, SQL, Power BI, Python** and **Data Visualization**
 - 📊 I enjoy turning messy datasets into dashboards and insights that actually help decisions get made
-- 🐍 Comfortable with **Python (Pandas, NumPy, Matplotlib, Seaborn)** for analysis and visualization
+- 🗄️ Strongest in **SQL** and **Advanced Excel** for data extraction, analysis & reporting; also comfortable with **Python (Pandas, NumPy, Matplotlib, Seaborn)** for analysis and visualization
 - 🧠 Currently exploring **Machine Learning, Deep Learning & Generative AI**
 - 📌 6+ hands-on analytics projects covering **churn analysis, EDA, pricing, SQL systems, and BI dashboards**
+- 🗂️ Have worked on datasets with **50,000+ rows**, handling cleaning, EDA, and visualization at that scale
 - 💬 Open to **Data Analyst / Junior Analyst** roles — always happy to connect and talk data!
 
 <br>
@@ -41,7 +42,16 @@
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Data Cleaning` `EDA (Exploratory Data Analysis)` `Statistics`
 
 **📉 Core Analytics**
-`Descriptive Statistics` `Hypothesis Testing` `Data Visualization` `Storytelling with Data`
+`Descriptive Statistics` `Hypothesis Testing` `Data Visualization` `Storytelling with Data` `Data Cleaning` `Data Preprocessing` `EDA (Exploratory Data Analysis)`
+
+**📐 Statistics**
+`Descriptive Statistics` `Statistical Analysis` `Hypothesis Testing`
+
+**🧰 Analytics Tools**
+`Jupyter Notebook` `Google Colab` `VS Code` `Git` `GitHub`
+
+**🤖 AI Tools**
+`Large Language Models (LLMs)` `LangChain` `NLP` `Gemini` `Claude` `ChatGPT`
 
 <br>
 
@@ -74,6 +84,15 @@
 | 🎮 **Video Game Sales Analysis** | Global video game sales analysis using Pandas & Matplotlib | `Python` `Pandas` `Matplotlib` |
 
 📁 See all repositories → [github.com/mshoheb](https://github.com/mshoheb?tab=repositories)
+
+<br>
+
+## 🎓 Certificates
+
+- 📗 **Databases and SQL for Data Science with Python** — IBM | Coursera | Nov 2024
+- 📘 **Introduction to Data Analytics** — IBM | Coursera | Oct 2024
+- 🐍 **Get Started with Python** — Google | Coursera | Dec 2024
+- 📊 **Data Analysis and Visualization with Power BI** — Microsoft | Coursera | Feb 2025
 
 <br>
 
