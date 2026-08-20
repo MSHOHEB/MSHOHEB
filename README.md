@@ -89,10 +89,10 @@
 
 ## 🎓 Certificates
 
-- 📗 **Databases and SQL for Data Science with Python** — IBM | Coursera | Nov 2024
-- 📘 **Introduction to Data Analytics** — IBM | Coursera | Oct 2024
-- 🐍 **Get Started with Python** — Google | Coursera | Dec 2024
-- 📊 **Data Analysis and Visualization with Power BI** — Microsoft | Coursera | Feb 2025
+- <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" /> **Databases and SQL for Data Science with Python** | Nov 2024
+- <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" /> **Introduction to Data Analytics** | Oct 2024
+- <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" /> **Get Started with Python** | Dec 2024
+- <img src="https://img.shields.io/badge/Microsoft-00A4EF?style=flat-square&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" /> **Data Analysis and Visualization with Power BI** | Feb 2025
 
 <br>
 
