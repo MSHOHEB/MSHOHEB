@@ -1,13 +1,11 @@
-<h1 align="center">Hello, I'm Mohammad Shoheb 👋</h1> <h3 align="center">Aspiring Data Analyst | Turning raw data into decisions 📊</h3> <p align="center"> <a href="https://www.linkedin.com/in/mohammed-shoheb" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:theshoheb18@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/mshoheb" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <br>
-🏅 Microsoft Certified Badges
-<p align="center"> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MOHAMMEDSHOHEB-9505/EG83EX2P?sharingId=28DDE3D9FD731EBF" target="_blank"> <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="Microsoft Badge" title="Implement Programmability Objects with SQL"/> </a> &nbsp;&nbsp; <a href="https://learn.microsoft.com/api/achievements/share/en-us/MOHAMMEDSHOHEB-9505/7DSLPDFZ?sharingId=28DDE3D9FD731EBF" target="_blank"> <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="Microsoft Badge" title="Design and Implement Database Objects with SQL"/> </a> </p> <br>
+<h1 align="center">Hello, I'm Mohammad Shoheb 👋</h1> <h3 align="center">Aspiring Data Analyst | Turning raw data into decisions 📊</h3> <p align="center"> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MOHAMMEDSHOHEB-9505/EG83EX2P?sharingId=28DDE3D9FD731EBF" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20Learn-Implement%20programmability%20objects%20with%20SQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> </a> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MOHAMMEDSHOHEB-9505/7DSLPDFZ?sharingId=28DDE3D9FD731EBF" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20Learn-Design%20%26%20implement%20database%20objects%20with%20SQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> </a> </p> <p align="center"> <a href="https://www.linkedin.com/in/mohammed-shoheb" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:theshoheb18@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/mshoheb" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <br>
 🧭 About Me
 🎯 Aspiring Data Analyst sharpening my skills in Advanced Excel, SQL, Power BI, Python and Data Visualization
 📊 I enjoy turning messy datasets into dashboards and insights that actually help decisions get made
 🗄️ Strongest in SQL and Advanced Excel for data extraction, analysis & reporting; also comfortable with Python (Pandas, NumPy, Matplotlib, Seaborn) for analysis and visualization
 🧠 Currently exploring Machine Learning, Deep Learning & Generative AI
 📌 6+ hands-on analytics projects covering churn analysis, EDA, pricing, SQL systems, and BI dashboards
-🗂️ Analyzed 50,000+ records across multiple datasets, applying data cleaning, EDA, and visualization techniques.
+🗂️ Have worked on datasets with 50,000+ rows, handling cleaning, EDA, and visualization at that scale
 💬 Open to Data Analyst / Junior Analyst roles — always happy to connect and talk data!
 <br>
 🛠️ Skills
@@ -48,6 +46,8 @@ Project	Description	Tech
 📘 Introduction to Data Analytics — IBM | Coursera | Oct 2024
 🐍 Get Started with Python — Google | Coursera | Dec 2024
 📊 Data Analysis and Visualization with Power BI — Microsoft | Coursera | Feb 2025
+🗄️ Design and implement database objects with SQL — Microsoft Learn | Jul 2026
+🧩 Implement programmability objects with SQL — Microsoft Learn | Aug 2026
 <br>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mshoheb&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshoheb&layout=compact&theme=dark&hide_border=true" width="35%" /> </p> <br>
