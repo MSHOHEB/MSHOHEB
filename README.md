@@ -1,4 +1,6 @@
 <h1 align="center">Hello, I'm Mohammad Shoheb 👋</h1> <h3 align="center">Aspiring Data Analyst | Turning raw data into decisions 📊</h3> <p align="center"> <a href="https://www.linkedin.com/in/mohammed-shoheb" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:theshoheb18@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/mshoheb" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <br>
+🏅 Microsoft Certified Badges
+<p align="center"> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MOHAMMEDSHOHEB-9505/EG83EX2P?sharingId=28DDE3D9FD731EBF" target="_blank"> <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="Microsoft Badge" title="Implement Programmability Objects with SQL"/> </a> &nbsp;&nbsp; <a href="https://learn.microsoft.com/api/achievements/share/en-us/MOHAMMEDSHOHEB-9505/7DSLPDFZ?sharingId=28DDE3D9FD731EBF" target="_blank"> <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="Microsoft Badge" title="Design and Implement Database Objects with SQL"/> </a> </p> <br>
 🧭 About Me
 🎯 Aspiring Data Analyst sharpening my skills in Advanced Excel, SQL, Power BI, Python and Data Visualization
 📊 I enjoy turning messy datasets into dashboards and insights that actually help decisions get made
@@ -41,10 +43,7 @@ Project	Description	Tech
 📁 See all repositories → github.com/mshoheb
 
 <br>
-🎓 Certificates & Badges
-🏅 Microsoft Learn Badges
-<p> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MOHAMMEDSHOHEB-9505/EG83EX2P?sharingId=28DDE3D9FD731EBF" target="_blank"> <img src="https://img.shields.io/badge/Microsoft-Implement%20Programmability%20Objects%20with%20SQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> </a> </p> <p> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MOHAMMEDSHOHEB-9505/7DSLPDFZ?sharingId=28DDE3D9FD731EBF" target="_blank"> <img src="https://img.shields.io/badge/Microsoft-Design%20and%20Implement%20Database%20Objects%20with%20SQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> </a> </p>
-📜 Course Certificates
+🎓 Certificates
 📗 Databases and SQL for Data Science with Python — IBM | Coursera | Nov 2024
 📘 Introduction to Data Analytics — IBM | Coursera | Oct 2024
 🐍 Get Started with Python — Google | Coursera | Dec 2024
