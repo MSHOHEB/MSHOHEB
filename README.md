@@ -13,6 +13,22 @@
   </a>
 </p>
 
+<!-- Microsoft Learn Badges with Short Names -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="image_99259b.png" width="100" alt="SQL Programmability" /><br>
+        <b>🏅 SQL Programmability</b>
+      </td>
+      <td align="center">
+        <img src="image_99259b.png" width="100" alt="SQL Database Objects" /><br>
+        <b>🏅 SQL Database Objects</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br>
 
 ## 🧭 About Me
